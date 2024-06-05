@@ -1,4 +1,4 @@
-NAME		:= phonebook
+NAME		:= scavTrap
 
 INCLUDES_DIR 		:= ./includes/
 INCLUDES 			:= -I includes
