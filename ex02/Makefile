@@ -1,4 +1,4 @@
-NAME		:= phonebook
+NAME		:= fragTrap
 
 INCLUDES_DIR 		:= ./includes/
 INCLUDES 			:= -I includes
