@@ -1,4 +1,4 @@
-NAME		:= phonebook
+NAME		:= clapTrap
 
 INCLUDES_DIR 		:= ./includes/
 INCLUDES 			:= -I includes
